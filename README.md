@@ -1,6 +1,6 @@
 
 # Conversor de temperatura con Tkinter
-Un conversor de temperatura desarrollado con el lengua de programación python, usando la libreria Tkinter. Este conversor de temperatura puede convertir grados celcius a fahrenheit y viceversa.
+Un conversor de temperatura desarrollado con el lenguaje de programación python, usando la libreria Tkinter. Este conversor de temperatura puede convertir grados celcius a fahrenheit y viceversa.
 
 # ¡Espero este proyecto sea de su ayuda!
 Este proyecto tiene fines de enseñar a los usuarios a como usar tkinter y con la esperanza de que mas gente empieze a crear sus propias cosas.
