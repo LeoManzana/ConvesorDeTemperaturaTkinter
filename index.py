@@ -1,5 +1,4 @@
 #--Importar librerias necesarias
-from msilib.schema import Icon
 from tkinter import * 
 from tkinter import ttk
 
